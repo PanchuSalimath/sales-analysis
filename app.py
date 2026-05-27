@@ -15,4 +15,4 @@ st.markdown("""
     background-color: #071021;
     color: white;
 }
-""")
+""",unsafe_allow_html=True)
