@@ -15,7 +15,7 @@ def read_excel(file):
     df = pd.read_excel(file)
     return df
 
-df = read_excel("C:/Users/panch/OneDrive/Desktop/Dashboard/data/sales.xls")
+df = read_excel("data/sales.xls")
 
 # -----------------------------
 # Page Title
